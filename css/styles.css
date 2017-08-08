@@ -2,3 +2,16 @@
   background-color:black;
   color: white;
 }
+
+.dog-frame {
+  border: 8px solid black;
+}
+
+#frame:hover {
+  text-decoration: underline;
+}
+
+#frame {
+    color: blue;
+    cursor: pointer;
+}
