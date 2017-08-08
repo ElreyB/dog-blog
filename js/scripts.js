@@ -1,8 +1,9 @@
 $(document).ready(function(){
-  // $("button#light-theme").click(function(){
-  //
-  // });
+  $("button#light-theme").click(function(){
+   $("body").removeClass();
+  });
   $("button#dark-theme").click(function(){
+    $("body").removeClass();
     $("body").addClass("dark-background");
   });
 });
