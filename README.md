@@ -1,34 +1,35 @@
-# _{Dog Blog}_
+# Dog Blog
 
-#### _{A blog about my favorite dog}, {August 1st, 2017}_
+#### A blog about my favorite dog - August 8st, 2017
 
-#### By _**{Mitch Long, Rafa Furry, Dan Nollette}**_
+#### By _**Mitch Long, Rafa Furry, Dan Nollette and Elrey Belmonti**_
 
 ## Description
 
-_{This basic blog uses images and videos to show my followers my favorite dog.}_
+_This basic blog uses images and videos to show my followers my favorite dog._
 
 ## Setup/Installation Requirements
 
-* _No setup needed_
-* _Just a simple html page_
+* _Clone this Repo_
+* _Navigate to desktop directory_
+* _Run "git clone repo-url"
 
 
 
 ## Known Bugs
 
-_{No known bugs at this time.}_
+_No known bugs at this time._
 
 ## Support and contact details
 
-_{If you have any issues cloning contact Mitch at mwlong23@gmail.com . }_
+_If you have any issues cloning contact Mitch at meechllada@gmail.com_
 
 ## Technologies Used
 
-_{Nothing extra special was done with this page's html.}_
+_Html, CSS, JavaScript, Bootstrap and jQuery_
 
 ### License
 
-*{This page is licensed under MIT license.}*
+*This page is licensed under MIT license.*
 
-Copyright (c) 2016 **_{Mitch Long, Rafael Furry, Dan Nollette}_**
+Copyright (c) 2017 **_{Mitch Long, Rafael Furry, Dan Nollette and Elrey Belmonti}_**
